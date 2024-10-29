@@ -12,6 +12,6 @@ Graph traversal and heuristic search.
 Pathfinding in the context of autonomous systems.
 Structure:
 
-src/: Contains the main Python code.
-docs/: Diagrams and visual outputs of the project.
-tests/: Any unit tests to validate functionality.
+src/: Contains the main Python code.  
+docs/: Diagrams and visual outputs of the project.  
+tests/: Any unit tests to validate functionality.  
