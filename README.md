@@ -9,7 +9,8 @@ Goal: To implement an A* pathfinding algorithm in Python, visualize the planned 
 Technologies Used: Python, matplotlib (for visualization).
 Key Concepts:
 Graph traversal and heuristic search.
-Pathfinding in the context of autonomous systems.
+Pathfinding in the context of autonomous systems.  
+
 Structure:
 
 src/: Contains the main Python code.  
